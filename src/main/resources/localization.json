@@ -1,0 +1,63 @@
+{
+  "server": {
+    "name": {
+      "period": 2,
+      "frames": [
+        "<yellow><bold><white><bold>F<yellow><bold>ireball<gold><bold>Fight",
+        "<yellow><bold>F<white><bold>i<yellow><bold>reball<gold><bold>Fight",
+        "<yellow><bold>Fi<white><bold>r<yellow><bold>eball<gold><bold>Fight",
+        "<yellow><bold>Fir<white><bold>e<yellow><bold>ball<gold><bold>Fight",
+        "<yellow><bold>Fire<white><bold>b<yellow><bold>all<gold><bold>Fight",
+        "<yellow><bold>Fireb<white><bold>a<yellow><bold>ll<gold><bold>Fight",
+        "<yellow><bold>Fireba<white><bold>l<yellow><bold>l<gold><bold>Fight",
+        "<yellow><bold>Firebal<white><bold>l<gold><bold>Fight",
+        "<yellow><bold>Fireball<gold><bold><white><bold>F<gold><bold>ight",
+        "<yellow><bold>Fireball<gold><bold>F<white><bold>i<gold><bold>ght",
+        "<yellow><bold>Fireball<gold><bold>Fi<white><bold>g<gold><bold>ht",
+        "<yellow><bold>Fireball<gold><bold>Fig<white><bold>h<gold><bold>t",
+        "<yellow><bold>Fireball<gold><bold>Figh<white><bold>t",
+        "<yellow><bold>Fireball<gold><bold>Fight",
+        "<yellow><bold>Fireball<gold><bold>Fight",
+        "<yellow><bold>Fireball<gold><bold>Fight",
+        "<yellow><bold>Fireball<gold><bold>Fight",
+        "<yellow><bold>Fireball<gold><bold>Fight",
+        "<yellow><bold>Fireball<gold><bold>Fight",
+        "<yellow><bold>Fireball<gold><bold>Fight",
+        "<yellow><bold>Fireball<gold><bold>Fight",
+        "<yellow><bold>Fireball<gold><bold>Fight",
+        "<yellow><bold>Fireball<gold><bold>Fight",
+        "<yellow><bold>Fireball<gold><bold>Fight",
+        "<yellow><bold>Fireball<gold><bold>Fight",
+        "<yellow><bold>Fireball<gold><bold>Fight",
+        "<yellow><bold>Fireball<gold><bold>Fight",
+        "<yellow><bold>Fireball<gold><bold>Fight",
+        "<yellow><bold>Fireball<gold><bold>Fight",
+        "<yellow><bold>Fireball<gold><bold>Fight",
+        "<yellow><bold>Fireball<gold><bold>Fight",
+        "<yellow><bold>Fireball<gold><bold>Fight",
+        "<yellow><bold>Fireball<gold><bold>Fight",
+        "<yellow><bold>Fireball<gold><bold>Fight"
+      ]
+    },
+    "ip": "<yellow>example.com",
+    "arena_full": "§c§lАрена заполнена"
+  },
+  "waiting_for_players": {
+    "waiting_for_players": {
+      "period": 20,
+      "frames": [
+        "Ожидание соперника.",
+        "Ожидание соперника..",
+        "Ожидание соперника..."
+      ]
+    },
+    "until_start": "До старта осталось"
+  },
+  "game": {
+    "lose": "<red>Вы проиграли :(",
+    "win": "<green>Вы победили!",
+    "bed_broken": "<red>Кровать сломана!",
+    "you_died": "<dark_red>Вы погибли!",
+    "respawn_after_seconds": "<red>Возрождение через<reset>"
+  }
+}
